@@ -86,8 +86,8 @@ deep-translator==1.11.4
 Install manually:
 
 pip install deep-translator
-🎯 Learning Objectives
 
+🎯 Learning Objectives
 This project demonstrates:
 
 GUI programming with Tkinter
@@ -98,6 +98,7 @@ User interface design
 Working with dictionaries and strings
 
 🔮 Future Enhancements
+
 🌍 Automatic language detection
 🔊 Text-to-Speech (TTS)
 🎤 Voice input
@@ -159,7 +160,7 @@ If you found this project useful:
 🍴 Fork the project
 🐞 Report bugs
 💡 Suggest new features
-Thank You! ❤️
 
+Thank You! ❤️
 
 Thank you for visiting the Language Translation Tool project. We hope this application is useful and helps you learn Python GUI development and language translation techniques.
